@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/PipeDreamer.iml" filepath="$PROJECT_DIR$/.idea/modules/PipeDreamer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PipeDreamer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PipeDreamer.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PipeDreamer.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PipeDreamer.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PipeDreamer.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PipeDreamer.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PipeDreamer.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PipeDreamer.app.unitTest.iml" />
     </modules>
   </component>
 </project>
